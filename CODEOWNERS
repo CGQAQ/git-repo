@@ -1,0 +1,5 @@
+# CODE OWNERS FILE
+
+# * @global-owner
+# *.js @js-owner
+# /docs/* docs-owner@example.com
