@@ -1,5 +1,5 @@
-*       text=auto eol=lf          # All files will have LF line endings.
-# *.js    linguist-generated=true   # ignore js
-# *.css   linguist-generated=true
-# *.bat   linguist-generated=true
-# *.sh    linguist-generated=true
+# All files will have LF line endings.
+*       text=auto eol=lf
+
+# ignore files
+# *.js    linguist-generated=true   
